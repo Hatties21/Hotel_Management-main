@@ -1,0 +1,358 @@
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.Form1.resources
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.FormMain.resources
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.Properties.Resources.resources
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\testsql\testsql\bin\Release\Database1.mdf
+C:\Users\ASUS\source\repos\testsql\testsql\bin\Release\Database1_log.ldf
+C:\Users\ASUS\source\repos\testsql\testsql\bin\Release\testsql.exe.config
+C:\Users\ASUS\source\repos\testsql\testsql\bin\Release\testsql.exe
+C:\Users\ASUS\source\repos\testsql\testsql\bin\Release\testsql.pdb
+C:\Users\ASUS\source\repos\testsql\testsql\bin\Release\Guna.UI.dll
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.csproj.CopyComplete
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.exe
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.pdb
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.FormLogin.resources
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.FormPhong.resources
+C:\Users\ASUS\source\repos\testsql\testsql\obj\Release\testsql.FormThongTin.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Database1.mdf
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Database1_log.ldf
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\testsql.exe.config
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\testsql.exe
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\testsql.pdb
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.FormLogin.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Properties.Resources.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csproj.GenerateResource.cache
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csproj.CoreCompileInputs.cache
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csproj.CopyComplete
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.exe
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.pdb
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Guna.UI2.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\EnvDTE.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\stdole.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.MSXML.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formtrangthaiphong.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Fomrdatphong.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formmainmenu.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formdichvuthanhtoan.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formthongtinnhom.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\MetroFramework.Design.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\MetroFramework.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\MetroFramework.Fonts.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\De.TorstenMandelkow.MetroChart.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csprojAssemblyReference.cache
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Form1.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.fPrintBill.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Database1.mdf
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Database1_log.ldf
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\testsql.exe.config
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\testsql.exe
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\testsql.pdb
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\De.TorstenMandelkow.MetroChart.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Guna.UI2.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\MetroFramework.Design.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\MetroFramework.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\MetroFramework.Fonts.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.SqlServer.Types.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\EnvDTE.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\stdole.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\Microsoft.MSXML.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csprojAssemblyReference.cache
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formmainmenu.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.FormLogin.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formthongtinnhom.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Properties.Resources.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csproj.GenerateResource.cache
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csproj.CoreCompileInputs.cache
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.csproj.CopyComplete
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.exe
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.pdb
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formdichvuthanhtoan.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formtrangthaiphong.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\bin\Release\WinFormAnimation.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formdatphong.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.fPrintBill.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formdanhsachnhanvien.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formdanhsachkhachhang.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\Hai QLKS\testsql\testsql\obj\Release\testsql.Formuser.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csprojAssemblyReference.cache
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formuser.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdanhsachnhanvien.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdanhsachkhachhang.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdatphong.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdichvuthanhtoan.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formmainmenu.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.FormLogin.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formthongtinnhom.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formtrangthaiphong.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csproj.GenerateResource.cache
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.exe
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.pdb
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\testsql.exe.config
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\testsql.exe
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\testsql.pdb
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Guna.UI2.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\MetroFramework.Design.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\MetroFramework.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\MetroFramework.Fonts.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.SqlServer.Types.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\EnvDTE.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\stdole.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.MSXML.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Properties.Resources.resources
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csproj.CoreCompileInputs.cache
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csproj.CopyComplete
+E:\LEARNING\My Programing\Study_C#\Bài Thực Tập CSDL\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Forminphieuthue.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\testsql.exe.config
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\testsql.exe
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\testsql.pdb
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Guna.UI2.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\MetroFramework.Design.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\MetroFramework.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\MetroFramework.Fonts.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\System.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\EnvDTE.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\stdole.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\Microsoft.MSXML.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\System.xml
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csprojAssemblyReference.cache
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formuser.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdanhsachnhanvien.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdanhsachkhachhang.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdatphong.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdichvuthanhtoan.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formmainmenu.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.FormLogin.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formthongtinnhom.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formtrangthaiphong.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Forminphieuthue.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Properties.Resources.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csproj.GenerateResource.cache
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csproj.CoreCompileInputs.cache
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.csproj.CopyComplete
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.exe
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.pdb
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\bin\Release\vi\testsql.resources.dll
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.FormQLPhong.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Form6.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.FormDTThang.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.FormDTNgay.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdatphong1.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdichvuthanhtoan1.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Formdoimatkhauuser.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.formQLDV.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.FormQLLP.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.Forminhoadon.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\testsql.FormDTNgay.vi.resources
+C:\Users\DONG TRAN\Desktop\Bài Thực Tập CSDL_trial\QUANLIKHACHSAN\testsql\testsql\obj\Release\vi\testsql.resources.dll

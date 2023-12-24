@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{51D5B08F-3C15-4C6B-A28E-77C3CFC836D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>testsql</RootNamespace>
+    <AssemblyName>testsql</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>bin\Release\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>bin\Release\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>E:\LEARNING\My Programing\Study_C#\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\login_DAO.cs" />
+    <Compile Include="DataBase.cs" />
+    <Compile Include="Formmainmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmainmenu.designer.cs">
+      <DependentUpon>Formmainmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQLPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQLPhong.designer.cs">
+      <DependentUpon>FormQLPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formthongkehoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formthongkehoadon.designer.cs">
+      <DependentUpon>Formthongkehoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDTThang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDTThang.designer.cs">
+      <DependentUpon>FormDTThang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDTNgay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDTNgay.designer.cs">
+      <DependentUpon>FormDTNgay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdatphong1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdatphong1.designer.cs">
+      <DependentUpon>Formdatphong1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdichvuthanhtoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdichvuthanhtoan.designer.cs">
+      <DependentUpon>Formdichvuthanhtoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdichvuthanhtoan1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdichvuthanhtoan1.designer.cs">
+      <DependentUpon>Formdichvuthanhtoan1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdoimatkhauuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdoimatkhauuser.designer.cs">
+      <DependentUpon>Formdoimatkhauuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forminphieuthue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forminphieuthue.designer.cs">
+      <DependentUpon>Forminphieuthue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formQLDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formQLDV.designer.cs">
+      <DependentUpon>formQLDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQLLP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQLLP.designer.cs">
+      <DependentUpon>FormQLLP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtrangthaiphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formtrangthaiphong.designer.cs">
+      <DependentUpon>Formtrangthaiphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formuser.Designer.cs">
+      <DependentUpon>Formuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdanhsachnhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdanhsachnhanvien.designer.cs">
+      <DependentUpon>Formdanhsachnhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdanhsachkhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdanhsachkhachhang.designer.cs">
+      <DependentUpon>Formdanhsachkhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdatphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdatphong.designer.cs">
+      <DependentUpon>Formdatphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formthongtinnhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formthongtinnhom.Designer.cs">
+      <DependentUpon>Formthongtinnhom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forminhoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forminhoadon.designer.cs">
+      <DependentUpon>Forminhoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLKSDataSet.cs">
+      <DependentUpon>QLKSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLKSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLKSDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Formmainmenu.resx">
+      <DependentUpon>Formmainmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQLPhong.resx">
+      <DependentUpon>FormQLPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formthongkehoadon.resx">
+      <DependentUpon>Formthongkehoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDTThang.resx">
+      <DependentUpon>FormDTThang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDTNgay.resx">
+      <DependentUpon>FormDTNgay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDTNgay.vi.resx">
+      <DependentUpon>FormDTNgay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdatphong1.resx">
+      <DependentUpon>Formdatphong1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdichvuthanhtoan.resx">
+      <DependentUpon>Formdichvuthanhtoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdichvuthanhtoan1.resx">
+      <DependentUpon>Formdichvuthanhtoan1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdoimatkhauuser.resx">
+      <DependentUpon>Formdoimatkhauuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forminphieuthue.resx">
+      <DependentUpon>Forminphieuthue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formQLDV.resx">
+      <DependentUpon>formQLDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQLLP.resx">
+      <DependentUpon>FormQLLP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtrangthaiphong.resx">
+      <DependentUpon>Formtrangthaiphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formuser.resx">
+      <DependentUpon>Formuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdanhsachnhanvien.resx">
+      <DependentUpon>Formdanhsachnhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdanhsachkhachhang.resx">
+      <DependentUpon>Formdanhsachkhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdatphong.resx">
+      <DependentUpon>Formdatphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formthongtinnhom.resx">
+      <DependentUpon>Formthongtinnhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forminhoadon.resx">
+      <DependentUpon>Forminhoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QLKSDataSet.xsc">
+      <DependentUpon>QLKSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLKSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLKSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLKSDataSet.xss">
+      <DependentUpon>QLKSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\roberto-nickson-MA82mPIZeGI-unsplash.jpg" />
+    <None Include="Resources\close.ico" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\padlock.png" />
+    <None Include="Resources\1828439 %281%29.jpg" />
+    <None Include="Resources\Thongtin.png" />
+    <None Include="Resources\Dangxuat.png" />
+    <None Include="Resources\Thoat.png" />
+    <None Include="Resources\khachhang.jpg" />
+    <None Include="Resources\hethong.jpg" />
+    <None Include="Resources\1570102.jpeg" />
+    <None Include="Resources\k.jpg" />
+    <None Include="Resources\management.png" />
+    <None Include="Resources\1925065.jpg" />
+    <None Include="Resources\administrator.png" />
+    <None Include="Resources\relax.png" />
+    <None Include="Resources\supply-chain.png" />
+    <None Include="Resources\bell.png" />
+    <None Include="Resources\business-report.png" />
+    <None Include="Resources\income.png" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\information %281%29.png" />
+    <None Include="Resources\169531947_441347220275171_3805843051917806940_n.jpg" />
+    <None Include="Resources\btnhide.jpg" />
+    <None Include="Resources\visibility.png" />
+    <None Include="Resources\visibility %281%29.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\tai-hinh-nen-nha-dep-cho-may-tinh-5.jpg" />
+    <None Include="Resources\2383990.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\bedroom_0.png" />
+    <Content Include="Resources\bedroom_1.png" />
+    <Content Include="Resources\bedroom_2.png" />
+    <None Include="Resources\room_1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
